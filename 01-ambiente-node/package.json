@@ -1,0 +1,17 @@
+{
+  "name": "aula-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "lint": "eslint ."
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "eslint": "^10.8.0",
+    "nodemon": "^3.1.14"
+  }
+}
